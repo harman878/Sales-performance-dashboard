@@ -72,7 +72,7 @@ Through this project, I strengthened my ability to:
 ## 📷 Dashboard Preview
 
 ```markdown
-![Sales Performance Dashboard]('financial_dataset_dashboard.png')
+![Sales Performance Dashboard](financial_dataset_dashboard.png)
 ```
 
 ---
