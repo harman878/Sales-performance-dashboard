@@ -68,22 +68,11 @@ Through this project, I strengthened my ability to:
 
 ---
 
-## 📂 Project Files
-
-- 📄 `Sales Performance Dashboard.xlsx`
-- 📄 `Financials.csv`
-- 📄 `README.md`
-- 🖼️ Dashboard Screenshot
-
----
 
 ## 📷 Dashboard Preview
 
-> Replace the file name below with your uploaded dashboard image.
-
 ```markdown
-![Sales Performance Dashboard](<img width="1854" height="645" alt="image" src="https://github.com/user-attachments/assets/bcc303e3-de15-4f2e-a38a-8e68eda904ee" />
-)
+![Sales Performance Dashboard](https://raw.githubusercontent.com/harman878/Sales-performance-dashboard/refs/heads/main/financial_dataset_dashboard.png)
 ```
 
 ---
