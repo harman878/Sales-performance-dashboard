@@ -76,6 +76,6 @@ Through this project, I strengthened my ability to:
 
 ---
 
-## 🚀 About This Project
+**## 🚀 About This Project**
 
 This project is part of my data analytics portfolio and demonstrates my ability to use Microsoft Excel for data cleaning, business analysis, automation, and interactive dashboard development. It reflects my approach to transforming raw business data into meaningful insights that support better business decisions.
