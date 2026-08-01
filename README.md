@@ -74,8 +74,8 @@ Through this project, I strengthened my ability to:
 ![Sales Performance Dashboard](financial_dataset_dashboard.png)
 ```
 
----
 
-**## 🚀 About This Project**
 
-This project is part of my data analytics portfolio and demonstrates my ability to use Microsoft Excel for data cleaning, business analysis, automation, and interactive dashboard development. It reflects my approach to transforming raw business data into meaningful insights that support better business decisions.
+## 🚀 About This Project
+
+This project reflects my hands-on experience in using Microsoft Excel to solve real-world business problems through data analysis and interactive dashboarding. It demonstrates my ability to clean data, automate reporting, analyze business performance, and communicate insights effectively to support data-driven decision-making.
