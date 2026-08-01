@@ -72,7 +72,7 @@ Through this project, I strengthened my ability to:
 ## 📷 Dashboard Preview
 
 ```markdown
-![Sales Performance Dashboard](https://raw.githubusercontent.com/harman878/Sales-performance-dashboard/refs/heads/main/financial_dataset_dashboard.png)
+![Sales Performance Dashboard](financial_dataset_dashboard.png)
 ```
 
 ---
